@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503776262988",
+    "firebase_url": "https://quom-cab-app-default-rtdb.firebaseio.com",
+    "project_id": "quom-cab-app",
+    "storage_bucket": "quom-cab-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503776262988:android:c595357051af6af312ade9",
+        "android_client_info": {
+          "package_name": "com.quom.aplicacion_conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503776262988-876of2usa8mg0r35cegisi79jfn16pf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quom.aplicacion_conductor",
+            "certificate_hash": "bce501bb3d85e850d5d2561564410484eb134413"
+          }
+        },
+        {
+          "client_id": "503776262988-sr6c19gciikeo3d6ltbinco4297msdj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATj1iPzOKDgMSldZ2yXvFZ0NPc9tdwa-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503776262988-sr6c19gciikeo3d6ltbinco4297msdj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
